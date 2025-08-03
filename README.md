@@ -10,7 +10,7 @@
 
 ## 🚀 Demo en Vivo
 
-**[Ver Landing Page Completa →](https://solvemxx-landing-cursoeducativo.vercel.app/)**
+**[Ver Landing Page Completa →](solvemxx-landing-cursoeducativo.vercel.app)**
 
 ---
 
