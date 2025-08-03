@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+ 
+Sitemap: https://finance-course.solvemxx.com/sitemap.xml 

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "testimonial-1",
+    "name": "Juan Carlos Méndez",
+    "age": 23,
+    "city": "Bogotá",
+    "rating": 5,
+    "text": "Antes del curso tenía $2.5M en deudas y no sabía cómo administrar mi dinero. En 30 días logré crear un plan que me permitió pagar $800K y ahora ahorro $400K mensuales.",
+    "result": "Pagó $800K en deudas y ahorra $400K/mes",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face",
+    "videoUrl": "https://www.youtube.com/embed/p2AWYanIHkc"
+  },
+  {
+    "id": "testimonial-2",
+    "name": "María Fernanda Torres",
+    "age": 21,
+    "city": "Medellín", 
+    "rating": 5,
+    "text": "Trabajaba de medio tiempo y siempre llegaba 'quebrada' a fin de mes. Gracias al curso aprendí a presupuestar y en 2 meses ya tenía mi fondo de emergencia de $1.2M.",
+    "result": "Creó fondo de emergencia de $1.2M en 2 meses",
+    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop&crop=face",
+    "videoUrl": "https://www.youtube.com/embed/p2AWYanIHkc"
+  },
+  {
+    "id": "testimonial-3",
+    "name": "Andrés Felipe Ruiz",
+    "age": 25,
+    "city": "Cali",
+    "rating": 5,
+    "text": "Ganaba bien pero no entendía por qué no me alcanzaba el dinero. El curso me enseñó a hacer presupuesto real y ahora invierto $600K mensuales en CDTs y acciones.",
+    "result": "Invierte $600K mensuales en CDTs y acciones",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=face",
+    "videoUrl": "https://www.youtube.com/embed/p2AWYanIHkc"
+  }
+] 

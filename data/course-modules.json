@@ -1,0 +1,80 @@
+[
+  {
+    "id": "module-1",
+    "title": "Fundamentos Financieros",
+    "duration": "45 min",
+    "description": "Comprende los conceptos básicos que cambiarán tu relación con el dinero para siempre.",
+    "icon": "GraduationCap",
+    "outcomes": [
+      "Identifica tus patrones de gasto actuales",
+      "Comprende la diferencia entre activos y pasivos",
+      "Establece tu situación financiera real"
+    ],
+    "videoUrl": "https://www.youtube.com/embed/p2AWYanIHkc"
+  },
+  {
+    "id": "module-2", 
+    "title": "Presupuesto Inteligente",
+    "duration": "60 min",
+    "description": "Crea un sistema de presupuesto que funcione para tu estilo de vida y metas.",
+    "icon": "Calculator",
+    "outcomes": [
+      "Diseña tu presupuesto personalizado",
+      "Implementa la regla 50/30/20 adaptada",
+      "Automatiza tus finanzas básicas"
+    ],
+    "videoUrl": "https://www.youtube.com/embed/p2AWYanIHkc"
+  },
+  {
+    "id": "module-3",
+    "title": "Elimina Deudas Rápido",
+    "duration": "50 min", 
+    "description": "Estrategias probadas para liberarte de deudas y nunca más volver a ellas.",
+    "icon": "CreditCard",
+    "outcomes": [
+      "Aplica el método avalancha o bola de nieve",
+      "Negocia mejores condiciones con bancos",
+      "Crea un plan de pago acelerado"
+    ],
+    "videoUrl": "https://www.youtube.com/embed/p2AWYanIHkc"
+  },
+  {
+    "id": "module-4",
+    "title": "Fondo de Emergencia",
+    "duration": "40 min",
+    "description": "Construye tu red de seguridad financiera en tiempo récord.",
+    "icon": "Shield",
+    "outcomes": [
+      "Calcula tu fondo de emergencia ideal",
+      "Encuentra las mejores cuentas de ahorro",
+      "Automatiza tu ahorro mensual"
+    ],
+    "videoUrl": "https://www.youtube.com/embed/p2AWYanIHkc"
+  },
+  {
+    "id": "module-5",
+    "title": "Inversiones para Principiantes",
+    "duration": "70 min",
+    "description": "Haz que tu dinero trabaje para ti con inversiones seguras y rentables.",
+    "icon": "TrendingUp",
+    "outcomes": [
+      "Entiende acciones, bonos y fondos",
+      "Abre tu primera cuenta de inversión",
+      "Crea una cartera diversificada"
+    ],
+    "videoUrl": "https://www.youtube.com/embed/p2AWYanIHkc"
+  },
+  {
+    "id": "module-6",
+    "title": "Plan de Riqueza a 30 Días",
+    "duration": "55 min",
+    "description": "Integra todo lo aprendido en un plan de acción concreto para tu futuro financiero.",
+    "icon": "Target",
+    "outcomes": [
+      "Define tus metas financieras a corto y largo plazo",
+      "Crea tu plan personalizado de 30, 60 y 90 días",
+      "Establece sistemas de seguimiento y ajuste"
+    ],
+    "videoUrl": "https://www.youtube.com/embed/p2AWYanIHkc"
+  }
+] 

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "faq-1",
+    "question": "¿Realmente puedo ver resultados en 30 días?",
+    "answer": "Sí, absolutamente. El curso está diseñado para darte herramientas prácticas que puedes implementar inmediatamente. En los primeros 7 días ya tendrás tu presupuesto funcionando, y en 30 días habrás establecido todos los sistemas para manejar tu dinero eficientemente.",
+    "category": "resultados"
+  },
+  {
+    "id": "faq-2", 
+    "question": "¿Qué pasa si no tengo conocimientos previos de finanzas?",
+    "answer": "Perfect! El curso está diseñado específicamente para principiantes. Empezamos desde lo más básico y avanzamos paso a paso. No necesitas conocimientos previos, solo las ganas de cambiar tu situación financiera.",
+    "category": "nivel"
+  },
+  {
+    "id": "faq-3",
+    "question": "¿Funciona si gano poco dinero?",
+    "answer": "Sí, de hecho es cuando más útil es. El curso te enseña a maximizar cualquier ingreso, sin importar el monto. Muchos estudiantes han logrado ahorrar e invertir incluso ganando el salario mínimo.",
+    "category": "ingresos"
+  },
+  {
+    "id": "faq-4",
+    "question": "¿Qué incluye la garantía de 30 días?",
+    "answer": "Si después de tomar el curso completo y aplicar las estrategias por 30 días no ves mejoras en tu situación financiera, te devolvemos el 100% de tu dinero, sin preguntas.",
+    "category": "garantia"
+  },
+  {
+    "id": "faq-5",
+    "question": "¿Por cuánto tiempo tengo acceso al curso?",
+    "answer": "Tienes acceso de por vida al curso y a todas las actualizaciones futuras. Puedes ver las clases cuantas veces quieras, a tu propio ritmo.",
+    "category": "acceso"
+  }
+] 
